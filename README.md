@@ -4,3 +4,7 @@ This is a very simple Docker image running:
 * Nginx
 * PHP 7.1
 * MySQL 5
+
+# Example
+
+- Ports 8888: http://localhost:8888
